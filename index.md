@@ -7,3 +7,8 @@
 ```[js]
 function Help() {}
 ```
+
+
+- [ ] Turn on GitHub Pages 
+- [ ] Outline my porfolio
+- [ ] Introduce myself to the World
